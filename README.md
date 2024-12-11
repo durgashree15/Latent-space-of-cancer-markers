@@ -24,7 +24,7 @@ Contact to learn more.
 </div>
 
 <div align = "center">
-  <img src="https://github.com/user-attachments/assets/953e93d1-e1d5-479b-888f-613c09bb9fbe" alt="Sample Image" width="750" height="350">
+  <img src="https://github.com/user-attachments/assets/953e93d1-e1d5-479b-888f-613c09bb9fbe" alt="Sample Image" width="500" height="350">
 </div>
 
 <div align = "center">
